@@ -1,2 +1,0 @@
-# teste
-um simples crud
